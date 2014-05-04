@@ -17,9 +17,9 @@ Data Manipuation
 - [GetMatchedSleepEdfXmlFiles](https://github.com/DennisDean/GetMatchedSleepEdfXmlFiles). Function searches recurrsively within a folder for EDF files. The function assumes EDF files are named as 'prefix'.* and that annotation files are stored in the same folder as the EDF.  The function assumes annotaion files are stores as XML files ('prefixe'.XML.edf).
 
 Data Visualization
-- [BlockEdfSignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46366-blockedfsignalrasterview). 
-- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview). 
+- [BlockEdfSignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46366-blockedfsignalrasterview). Creates raster plots from signal data stored within an EDF file. Raster plots are sometimes referred to as waterfall plots.
+- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview). Creates heatmaps of signal data stored within an EDF file.
 
 Utilities
-- [SignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46420-blockedfsignalrasterview). 
-- [BlockEdfSummarizeFig](https://github.com/DennisDean/BlockEdfSummarizeFig). 
+- [SignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46420-blockedfsignalrasterview). SignalRasterViewFig is a utility for investigating the contents of an EDF file.  The utility (GUI) can be used to compare the EDF contents to the EDF specification, view the EDF headers, to create raster plots of the EDF signals and to create a power point summary of the generated raster plots.
+- [BlockEdfSummarizeFig](https://github.com/DennisDean/BlockEdfSummarizeFig). The simple GUI can be used to summarize and check EDF files stored within a folder.
