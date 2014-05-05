@@ -10,9 +10,9 @@ MATLAB script files are available for each of the DAVS-toolbox components.  Clic
 
 
 Data Access
-- [BlockEdfLoad](http://www.mathworks.com/matlabcentral/fileexchange/42784-blockedfload) ( [git](https://github.com/DennisDean/BlockEdfLoad)). An efficient EDF loader that provides several options for accessing header and signal information stored in an EDF file. Specific signals and selected 30 second epochs can be retrieved.
+- [BlockEdfLoad](http://www.mathworks.com/matlabcentral/fileexchange/42784-blockedfload)  [(git)](https://github.com/DennisDean/BlockEdfLoad). An efficient EDF loader that provides several options for accessing header and signal information stored in an EDF file. Specific signals and selected 30 second epochs can be retrieved.
 - [BlockEdfLoadClass](http://www.mathworks.com/matlabcentral/fileexchange/45227-blockedfloadclass) ([git](https://github.com/DennisDean/BlockEdfLoadClass/)). Class version of blockEdfLoad. Dependent variables are added that provide quick access to EDF header content. The class includes an EDF checker and support for creating EDF file lists. 
-- [BlockEdfWrite)](http://www.mathworks.com/matlabcentral/fileexchange/46339-blockedfwrite) ([git](https://github.com/DennisDean/BlockEdfLoadClass/)). An EDF creation function designed to worked in conjunction with BlockEdfLoad and BlockEdfLoadClass. The function can be used to record experimental data and to generate test data.  
+- [BlockEdfWrite](http://www.mathworks.com/matlabcentral/fileexchange/46339-blockedfwrite) ([git](https://github.com/DennisDean/BlockEdfLoadClass/)). An EDF creation function designed to worked in conjunction with BlockEdfLoad and BlockEdfLoadClass. The function can be used to record experimental data and to generate test data.  
 
 Data Manipuation
 - [BlockEdfDeidentify](http://www.mathworks.com/matlabcentral/fileexchange/46423-blockedfdeidentify) ([git](https://github/DennisDean/BlockEdfDeidentify/)). Function over-writes the subject id and study date fields in the EDF header. 
