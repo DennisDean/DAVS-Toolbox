@@ -42,7 +42,7 @@ Data Manipuation
 
 Data Visualization
 - [BlockEdfSignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46366-blockedfsignalrasterview) [(git)](https://github.com/DennisDean/BlockEdfSignalRasterView). Creates raster plots from signal data stored within an EDF file. Raster plots are sometimes referred to as waterfall plots. 
-- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview) [(git)](https://github.com/DennisDean/BlockEdfSignalRasterView). Creates heatmaps of signal data stored within an EDF file. 
+- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview) [(git)](https://github.com/DennisDean/BlockEdfHeatMapView). Creates heatmaps of signal data stored within an EDF file. 
 
 Data Utilities
 - [SignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46420-blockedfsignalrasterview) [(git)](http://github.com/DennisDean/SignalRasterView). SignalRasterViewFig is a utility for investigating the contents of an EDF file.  The utility (GUI) can be used to compare the EDF contents to the EDF specification, view the EDF headers, to create raster plots of the EDF signals, and to create a power point summary of the generated raster plots. 
