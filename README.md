@@ -31,7 +31,7 @@ Collectively the script files and data utilities provide significant support for
 
 Data Access
 - [BlockEdfLoad](http://www.mathworks.com/matlabcentral/fileexchange/42784-blockedfload)  [(git)](https://github.com/DennisDean/BlockEdfLoad). An efficient EDF loader that provides several options for accessing header and signal information stored in an EDF file. Specific signals and selected 30 second epochs can be retrieved.
-- [BlockEdfLoadClass](http://www.mathworks.com/matlabcentral/fileexchange/45227-blockedfloadclass) [(git)](https://github.com/DennisDean/BlockEdfLoadClass/)[rel](https://github.com/DennisDean/BlockEdfLoadClass/releases). Class version of BlockEdfLoad. Dependent variables are added that provide quick access to EDF header content. The class includes an EDF checker and support for creating EDF file lists. 
+- [BlockEdfLoadClass](http://www.mathworks.com/matlabcentral/fileexchange/45227-blockedfloadclass) [(git)](https://github.com/DennisDean/BlockEdfLoadClass/)[(rel)](https://github.com/DennisDean/BlockEdfLoadClass/releases). Class version of BlockEdfLoad. Dependent variables are added that provide quick access to EDF header content. The class includes an EDF checker and support for creating EDF file lists. 
 - [BlockEdfWrite](http://www.mathworks.com/matlabcentral/fileexchange/46339-blockedfwrite) [(git)](https://github.com/DennisDean/BlockEdfWrite). An EDF creation function designed to worked in conjunction with BlockEdfLoad and BlockEdfLoadClass. The function can be used to record experimental data and to generate test data.  
 - [LoadCompumedicsAnnotationClass](https://github.com/DennisDean/LoadCompumedicsAnnotationsClass)[(rel)](https://github.com/DennisDean/BlockEdfLoadClass/releases). Load sleep stage and event information from a Compumedics file. Generate a hypnogram from stage data.
 
@@ -42,11 +42,11 @@ Data Manipuation
 
 Data Visualization
 - [BlockEdfSignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46366-blockedfsignalrasterview) [(git)](https://github.com/DennisDean/BlockEdfSignalRasterView). Creates raster plots from signal data stored within an EDF file. Raster plots are sometimes referred to as waterfall plots. 
-- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview) [(git)](https://github.com/DennisDean/BlockEdfHeatMapView)[rel](https://github.com/DennisDean/BlockEdfHeatMapView/releases). Creates heatmaps of signal data stored within an EDF file. 
+- [BlockEdfSignalHeatMapView](http://www.mathworks.com/matlabcentral/fileexchange/46417-blockedfheatmapview) [(git)](https://github.com/DennisDean/BlockEdfHeatMapView)[(rel)](https://github.com/DennisDean/BlockEdfHeatMapView/releases). Creates heatmaps of signal data stored within an EDF file. 
 
 Data Utilities
 - [SignalRasterView](http://www.mathworks.com/matlabcentral/fileexchange/46420-blockedfsignalrasterview) [(git)](http://github.com/DennisDean/SignalRasterView)[(rel)](https://github.com/DennisDean/SignalRasterView/releases). SignalRasterViewFig is a utility for investigating the contents of an EDF file.  The utility (GUI) can be used to compare the EDF contents to the EDF specification, view the EDF headers, to create raster plots of the EDF signals, and to create a power point summary of the generated raster plots. 
-- [BlockEdfSummarizeFig](https://github.com/DennisDean/BlockEdfSummarizeFig)[rel](https://github.com/DennisDean/BlockEdfSummarizeFig/releases). The simple GUI can be used to summarize and check EDF files stored within a folder.
+- [BlockEdfSummarizeFig](https://github.com/DennisDean/BlockEdfSummarizeFig)[(rel)](https://github.com/DennisDean/BlockEdfSummarizeFig/releases). The simple GUI can be used to summarize and check EDF files stored within a folder.
 
 #### Related links
 MATLAB File Exchange Submissions:
